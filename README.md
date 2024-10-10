@@ -3,7 +3,6 @@
 
 - ⚡ Fun fact <b>I make money by making people laugh</b>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
