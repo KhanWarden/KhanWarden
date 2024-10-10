@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khan</h1>
-- 🌱 I’m currently learning **Python, React and FastAPI**
+- 🌱 I’m currently learning <b>Python, React and FastAPI</b>
 
-- ⚡ Fun fact **I make money by making people laugh**
+- ⚡ Fun fact <b>I make money by making people laugh</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
